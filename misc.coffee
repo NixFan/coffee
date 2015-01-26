@@ -176,3 +176,4 @@ switch today
 
 
 #I added a line for social-login branch
+#I added a line for photo-crop
