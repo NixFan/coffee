@@ -180,3 +180,5 @@ switch today
 # this is the first release
 # apply fix 1.01
 # This is the commit for photo-grallery
+
+# apply fix 1.1.1
