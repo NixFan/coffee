@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "iteration.js",
+  "sourceRoot": "",
+  "sources": [
+    "iteration.coffee"
+  ],
+  "names": [],
+  "mappings": ";AACA;AAAA,MAAA,0BAAA;;AAAA,EAAA,OAAA,GAAQ,uEAAR,CAAA;;AAAA,EACA,UAAA;;AAAW;SAAA,8CAAA;0BAAA;AACV,oBAAA,KAAA,GAAM,EAAN,CADU;AAAA;;MADX,CAAA;;AAAA,EAGA,OAAO,CAAC,GAAR,CAAY,UAAZ,CAHA,CAAA;AAAA"
+}
