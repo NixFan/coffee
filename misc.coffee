@@ -175,8 +175,8 @@ switch today
 		console.log 'today is today'
 
 
-#I added a line for social-login branch
 #I added a line for photo-crop
 # more line for photo-crop
 # this is the first release
 # apply fix 1.01
+# This is the commit for photo-grallery
