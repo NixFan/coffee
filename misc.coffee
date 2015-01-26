@@ -174,7 +174,6 @@ switch today
 	else
 		console.log 'today is today'
 
-
 #I added a line for photo-crop
 # more line for photo-crop
 # this is the first release
