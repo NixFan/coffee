@@ -181,3 +181,4 @@ switch today
 # apply fix 1.01
 # This is the commit for photo-grallery
 # some code for the  photo-swipe
+# added some more code for photo-swipe
