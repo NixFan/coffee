@@ -180,3 +180,4 @@ switch today
 # this is the first release
 # apply fix 1.01
 # This is the commit for photo-grallery
+# Let's do something for photo-zoom
